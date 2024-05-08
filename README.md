@@ -1,6 +1,8 @@
 # Python
 I tried Python before, here is the "final result".
 
+[Click Here](https://github.com/BizerraGuU/Python/blob/main/app.md) to read 'bout this 
+
 ## Used Technology:
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
